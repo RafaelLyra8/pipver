@@ -1,13 +1,6 @@
-#!python
-
-
-"""
- A Hello World script
-"""
+"""! @brief Script that implements the Hello World Class."""
 
 from pipver import helloworld
 
 if __name__ == "__main__":
-    helloworld.main()
-    helloworld.main()
-    helloworld.main()
+    hw = helloworld.HelloWorld()

@@ -12,6 +12,7 @@ with open('README.rst', 'r') as _f:
 with open('requirements.txt', 'r') as _f:
     _requirements = _f.read().strip().split('\n')
 
+
 setup(
     name="pipver",
     version=versioneer.get_version(),
