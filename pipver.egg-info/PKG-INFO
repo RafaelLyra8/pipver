@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: pipver
+Version: 0.1.0
+Summary: Python versioning example
+Home-page: http://pypi.python.org/pypi
+Author: Rafael Lyra
+Author-email: rafael.lyra@lnls.br
+License: None
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: None
+Classifier: Operating System :: Ubuntu :: Linux
+Classifier: Programming Language :: Python 2.7.17
+License-File: LICENCE
+
+This is a Python versioning test.
+
+
