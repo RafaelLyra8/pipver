@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['versioneerbadrooterror',['VersioneerBadRootError',['../classversioneer_1_1VersioneerBadRootError.html',1,'versioneer']]],
-  ['versioneerconfig',['VersioneerConfig',['../classversioneer_1_1VersioneerConfig.html',1,'versioneer']]]
+  ['notthismethod',['NotThisMethod',['../classversioneer_1_1NotThisMethod.html',1,'versioneer']]]
 ];
