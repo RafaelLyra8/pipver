@@ -1,4 +1,1 @@
 numpy
-versioneer[toml]
-tomli
-python_version < "3.11"

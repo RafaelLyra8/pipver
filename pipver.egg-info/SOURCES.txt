@@ -1,5 +1,6 @@
-LICENCE
+LICENSE
 README.rst
+setup.cfg
 setup.py
 pipver/__init__.py
 pipver/helloworld.py
