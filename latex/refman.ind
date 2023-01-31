@@ -1,0 +1,235 @@
+\begin{theindex}
+
+  \item {\+\_\+\+\_\+init\+\_\+\+\_\+}
+    \subitem {pipver\+::helloworld\+::\+Hello\+World}, 
+		\hyperpage{23, 24}
+
+  \indexspace
+
+  \item {author}
+    \subitem {setup}, \hyperpage{10}
+  \item {author\+\_\+email}
+    \subitem {setup}, \hyperpage{10}
+
+  \indexspace
+
+  \item {build/lib/pipver/\+\_\+\+\_\+init\+\_\+\+\_\+.\+py}, 
+		\hyperpage{27}
+  \item {build/lib/pipver/helloworld.\+py}, \hyperpage{27}
+  \item {build/scripts-\/3.\+6/hw.\+py}, \hyperpage{28}
+
+  \indexspace
+
+  \item {C\+O\+N\+F\+I\+G\+\_\+\+E\+R\+R\+OR}
+    \subitem {versioneer}, \hyperpage{19}
+  \item {classifiers}
+    \subitem {setup}, \hyperpage{10}
+  \item {cmd}
+    \subitem {versioneer}, \hyperpage{19}
+  \item {cmdclass}
+    \subitem {setup}, \hyperpage{11}
+
+  \indexspace
+
+  \item {description}
+    \subitem {setup}, \hyperpage{11}
+  \item {do\+\_\+setup}
+    \subitem {versioneer}, \hyperpage{13}
+  \item {do\+\_\+vcs\+\_\+install}
+    \subitem {versioneer}, \hyperpage{13}
+
+  \indexspace
+
+  \item {errors}
+    \subitem {versioneer}, \hyperpage{20}
+
+  \indexspace
+
+  \item {get\+\_\+cmdclass}
+    \subitem {versioneer}, \hyperpage{13}
+  \item {get\+\_\+config\+\_\+from\+\_\+root}
+    \subitem {versioneer}, \hyperpage{13}
+  \item {get\+\_\+root}
+    \subitem {versioneer}, \hyperpage{14}
+  \item {get\+\_\+version}
+    \subitem {versioneer}, \hyperpage{14}
+  \item {get\+\_\+versions}
+    \subitem {versioneer}, \hyperpage{14}
+  \item {git\+\_\+get\+\_\+keywords}
+    \subitem {versioneer}, \hyperpage{14}
+  \item {git\+\_\+pieces\+\_\+from\+\_\+vcs}
+    \subitem {versioneer}, \hyperpage{14}
+  \item {git\+\_\+versions\+\_\+from\+\_\+keywords}
+    \subitem {versioneer}, \hyperpage{15}
+
+  \indexspace
+
+  \item {Hello\+World}, \hyperpage{23}
+  \item {hw}, \hyperpage{9}
+    \subitem {hw}, \hyperpage{9}
+
+  \indexspace
+
+  \item {I\+N\+I\+T\+\_\+\+P\+Y\+\_\+\+S\+N\+I\+P\+P\+ET}
+    \subitem {versioneer}, \hyperpage{20}
+  \item {install\+\_\+requires}
+    \subitem {setup}, \hyperpage{11}
+
+  \indexspace
+
+  \item {license}
+    \subitem {setup}, \hyperpage{11}
+  \item {long\+\_\+description}
+    \subitem {setup}, \hyperpage{11}
+
+  \indexspace
+
+  \item {main}
+    \subitem {pipver\+::helloworld\+::\+Hello\+World}, \hyperpage{24}
+
+  \indexspace
+
+  \item {name}
+    \subitem {setup}, \hyperpage{11}
+  \item {Not\+This\+Method}, \hyperpage{25}
+
+  \indexspace
+
+  \item {O\+L\+D\+\_\+\+S\+N\+I\+P\+P\+ET}
+    \subitem {versioneer}, \hyperpage{20}
+
+  \indexspace
+
+  \item {packages}
+    \subitem {setup}, \hyperpage{11}
+  \item {pep440\+\_\+split\+\_\+post}
+    \subitem {versioneer}, \hyperpage{15}
+  \item {pipver}, \hyperpage{9}
+  \item {pipver.\+helloworld}, \hyperpage{10}
+  \item {pipver/\+\_\+\+\_\+init\+\_\+\+\_\+.\+py}, \hyperpage{27}
+  \item {pipver/helloworld.\+py}, \hyperpage{27}
+  \item {pipver\+::helloworld\+::\+Hello\+World}
+    \subitem {\+\_\+\+\_\+init\+\_\+\+\_\+}, \hyperpage{23, 24}
+    \subitem {main}, \hyperpage{24}
+    \subitem {text}, \hyperpage{24}
+  \item {plus\+\_\+or\+\_\+dot}
+    \subitem {versioneer}, \hyperpage{15}
+
+  \indexspace
+
+  \item {register\+\_\+vcs\+\_\+handler}
+    \subitem {versioneer}, \hyperpage{15}
+  \item {render}
+    \subitem {versioneer}, \hyperpage{16}
+  \item {render\+\_\+git\+\_\+describe}
+    \subitem {versioneer}, \hyperpage{16}
+  \item {render\+\_\+git\+\_\+describe\+\_\+long}
+    \subitem {versioneer}, \hyperpage{16}
+  \item {render\+\_\+pep440}
+    \subitem {versioneer}, \hyperpage{16}
+  \item {render\+\_\+pep440\+\_\+branch}
+    \subitem {versioneer}, \hyperpage{17}
+  \item {render\+\_\+pep440\+\_\+old}
+    \subitem {versioneer}, \hyperpage{17}
+  \item {render\+\_\+pep440\+\_\+post}
+    \subitem {versioneer}, \hyperpage{17}
+  \item {render\+\_\+pep440\+\_\+post\+\_\+branch}
+    \subitem {versioneer}, \hyperpage{17}
+  \item {render\+\_\+pep440\+\_\+pre}
+    \subitem {versioneer}, \hyperpage{18}
+  \item {run\+\_\+command}
+    \subitem {versioneer}, \hyperpage{18}
+
+  \indexspace
+
+  \item {S\+A\+M\+P\+L\+E\+\_\+\+C\+O\+N\+F\+IG}
+    \subitem {versioneer}, \hyperpage{20}
+  \item {S\+H\+O\+R\+T\+\_\+\+V\+E\+R\+S\+I\+O\+N\+\_\+\+PY}
+    \subitem {versioneer}, \hyperpage{21}
+  \item {scan\+\_\+setup\+\_\+py}
+    \subitem {versioneer}, \hyperpage{18}
+  \item {scripts}
+    \subitem {setup}, \hyperpage{11}
+  \item {scripts/hw.\+py}, \hyperpage{28}
+  \item {setup}, \hyperpage{10}
+    \subitem {author}, \hyperpage{10}
+    \subitem {author\+\_\+email}, \hyperpage{10}
+    \subitem {classifiers}, \hyperpage{10}
+    \subitem {cmdclass}, \hyperpage{11}
+    \subitem {description}, \hyperpage{11}
+    \subitem {install\+\_\+requires}, \hyperpage{11}
+    \subitem {license}, \hyperpage{11}
+    \subitem {long\+\_\+description}, \hyperpage{11}
+    \subitem {name}, \hyperpage{11}
+    \subitem {packages}, \hyperpage{11}
+    \subitem {scripts}, \hyperpage{11}
+    \subitem {url}, \hyperpage{12}
+    \subitem {version}, \hyperpage{12}
+  \item {setup.\+py}, \hyperpage{28}
+
+  \indexspace
+
+  \item {text}
+    \subitem {pipver\+::helloworld\+::\+Hello\+World}, \hyperpage{24}
+
+  \indexspace
+
+  \item {url}
+    \subitem {setup}, \hyperpage{12}
+
+  \indexspace
+
+  \item {version}
+    \subitem {setup}, \hyperpage{12}
+  \item {versioneer}, \hyperpage{12}
+    \subitem {C\+O\+N\+F\+I\+G\+\_\+\+E\+R\+R\+OR}, \hyperpage{19}
+    \subitem {cmd}, \hyperpage{19}
+    \subitem {do\+\_\+setup}, \hyperpage{13}
+    \subitem {do\+\_\+vcs\+\_\+install}, \hyperpage{13}
+    \subitem {errors}, \hyperpage{20}
+    \subitem {get\+\_\+cmdclass}, \hyperpage{13}
+    \subitem {get\+\_\+config\+\_\+from\+\_\+root}, \hyperpage{13}
+    \subitem {get\+\_\+root}, \hyperpage{14}
+    \subitem {get\+\_\+version}, \hyperpage{14}
+    \subitem {get\+\_\+versions}, \hyperpage{14}
+    \subitem {git\+\_\+get\+\_\+keywords}, \hyperpage{14}
+    \subitem {git\+\_\+pieces\+\_\+from\+\_\+vcs}, \hyperpage{14}
+    \subitem {git\+\_\+versions\+\_\+from\+\_\+keywords}, 
+		\hyperpage{15}
+    \subitem {I\+N\+I\+T\+\_\+\+P\+Y\+\_\+\+S\+N\+I\+P\+P\+ET}, 
+		\hyperpage{20}
+    \subitem {O\+L\+D\+\_\+\+S\+N\+I\+P\+P\+ET}, \hyperpage{20}
+    \subitem {pep440\+\_\+split\+\_\+post}, \hyperpage{15}
+    \subitem {plus\+\_\+or\+\_\+dot}, \hyperpage{15}
+    \subitem {register\+\_\+vcs\+\_\+handler}, \hyperpage{15}
+    \subitem {render}, \hyperpage{16}
+    \subitem {render\+\_\+git\+\_\+describe}, \hyperpage{16}
+    \subitem {render\+\_\+git\+\_\+describe\+\_\+long}, \hyperpage{16}
+    \subitem {render\+\_\+pep440}, \hyperpage{16}
+    \subitem {render\+\_\+pep440\+\_\+branch}, \hyperpage{17}
+    \subitem {render\+\_\+pep440\+\_\+old}, \hyperpage{17}
+    \subitem {render\+\_\+pep440\+\_\+post}, \hyperpage{17}
+    \subitem {render\+\_\+pep440\+\_\+post\+\_\+branch}, \hyperpage{17}
+    \subitem {render\+\_\+pep440\+\_\+pre}, \hyperpage{18}
+    \subitem {run\+\_\+command}, \hyperpage{18}
+    \subitem {S\+A\+M\+P\+L\+E\+\_\+\+C\+O\+N\+F\+IG}, \hyperpage{20}
+    \subitem {S\+H\+O\+R\+T\+\_\+\+V\+E\+R\+S\+I\+O\+N\+\_\+\+PY}, 
+		\hyperpage{21}
+    \subitem {scan\+\_\+setup\+\_\+py}, \hyperpage{18}
+    \subitem {versions\+\_\+from\+\_\+file}, \hyperpage{18}
+    \subitem {versions\+\_\+from\+\_\+parentdir}, \hyperpage{19}
+    \subitem {write\+\_\+to\+\_\+version\+\_\+file}, \hyperpage{19}
+  \item {versioneer.\+py}, \hyperpage{29}
+  \item {Versioneer\+Bad\+Root\+Error}, \hyperpage{26}
+  \item {Versioneer\+Config}, \hyperpage{26}
+  \item {versions\+\_\+from\+\_\+file}
+    \subitem {versioneer}, \hyperpage{18}
+  \item {versions\+\_\+from\+\_\+parentdir}
+    \subitem {versioneer}, \hyperpage{19}
+
+  \indexspace
+
+  \item {write\+\_\+to\+\_\+version\+\_\+file}
+    \subitem {versioneer}, \hyperpage{19}
+
+\end{theindex}
