@@ -1,4 +1,4 @@
-"""! @brief Defines the the Hello World Class."""
+""" @brief Defines the the Hello World Class."""
 ##
 # @file helloworld.py
 #
@@ -15,6 +15,7 @@
 # Copyright (c) 2022.  All rights reserved.
 
 class HelloWorld:
+<<<<<<< HEAD
     """!
     The Hello World base class.
 
@@ -35,17 +36,21 @@ class HelloWorld:
 
     >>> print 'This is a doctest block'
         This is a doctest block
+=======
+    """
+    The Hello World base class.
+>>>>>>> baddaaf (Code Documentation)
     """
 
     def __init__(self):
-        """!
+        """
         Initialize the text and call the main function
         """
         self.text = "Hello World!!"
         self.main()
 
     def main(self):
-        """! Print Hello World """
+        """ Print Hello World """
         print(self.text)
 
 class City:

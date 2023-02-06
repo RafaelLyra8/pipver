@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['old_5fsnippet',['OLD_SNIPPET',['../namespaceversioneer.html#af52884d2628e1ddeba102845cd69c028',1,'versioneer']]]
+  ['packages_125',['packages',['../namespacesetup.html#a5191bfd75a28371588f75471591d5500',1,'setup']]]
 ];

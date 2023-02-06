@@ -1,0 +1,54 @@
+\hypertarget{classpipver_1_1helloworld_1_1of}{}\doxysection{of Class Reference}
+\label{classpipver_1_1helloworld_1_1of}\index{of@{of}}
+
+
+Inheritance diagram for of\+:
+% FIG 0
+
+
+Collaboration diagram for of\+:
+% FIG 1
+
+
+\doxysubsection{Detailed Description}
+\begin{DoxyVerb}The Hello World base class.
+
+Information
+===========
+
+ Attributes
+----------
+
+text : str ::
+
+    A string that is outputed as the hello world
+
+Methods
+-------
+main()
+    Prints the animals name and what sound it makes
+
+>>> print 'This is a doctest block'
+    This is a doctest block
+\end{DoxyVerb}
+ =======
+
+\begin{DoxyVerb}def __init__(self):\end{DoxyVerb}
+
+
+\begin{DoxyVerb}self.text = "Hello World!!"
+self.main()
+
+def main(self):
+\end{DoxyVerb}
+
+
+\begin{DoxyVerb}print(self.text)
+
+class City:
+\end{DoxyVerb}
+ 
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+pipver/\mbox{\hyperlink{pipver_2helloworld_8py}{helloworld.\+py}}\end{DoxyCompactItemize}
